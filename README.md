@@ -1,1 +1,1 @@
-"# img2tikz" 
+# img2tikz
